@@ -10,7 +10,7 @@
 	$secert_org = "85176ab687ad4e06adb8542af91ced85deca807a";
 	//dictionary.txt contain all the english word
 	$all_word = fopen("dictionary.txt","r");
-	//ascii.txt conatin all ascii char
+	//ascii.txt conatin all ascii speical char
 	$ascii = fopen("ascii.txt","r");
 	//int.txt conatin all integer
 	$int = fopen("int.txt","r");
